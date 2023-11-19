@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+  main{
+    grid-template-areas:
+     'results'
+     'summary' !important;
+  }
+}

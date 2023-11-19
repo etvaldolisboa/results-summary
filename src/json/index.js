@@ -1,0 +1,1 @@
+import img from '../assets/images/icon-memory.png'

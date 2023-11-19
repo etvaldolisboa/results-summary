@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+        "id": 1,
+        "category": "Reaction",
+        "score": 80,
+        "icon": "https://etvaldolisboa.github.io/source-projects/src/assets/image/summary/icon-reaction.svg"
+    },
+    {
+      "id": 2,
+      "category": "Memory",
+      "score": 92,
+      "icon": "https://etvaldolisboa.github.io/source-projects/src/assets/image/summary/icon-memory.svg"
+    },
+    {
+      "id": 3,
+      "category": "Verbal",
+      "score": 61,
+      "icon": "https://etvaldolisboa.github.io/source-projects/src/assets/image/summary/icon-verbal.svg"
+    },
+    {
+      "id": 4,
+      "category": "Visual",
+      "score": 72,
+      "icon": "https://etvaldolisboa.github.io/source-projects/src/assets/image/summary/icon-visual.svg"
+    }
+  ]
+}

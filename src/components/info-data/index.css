@@ -1,0 +1,16 @@
+li:nth-child(1){
+  color: var(--light-red);
+  background-color: var(--light-red-opacity);
+}
+li:nth-child(2){
+  color: var(--orangey-yellow);
+  background-color: var(--orangey-yellow-opacity);
+}
+li:nth-child(3){
+  color: var(--green-teal);
+  background-color: var(--green-teal-opacity);
+}
+li:nth-child(4){
+  color: var(--cobalt-blue);
+  background-color: var(--cobalt-blue-opacity);
+}
