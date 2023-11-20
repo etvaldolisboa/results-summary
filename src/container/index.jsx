@@ -20,7 +20,6 @@ export const Container = (props) => {
       @media (max-width: 500px) {
         padding: 0;
         background-color: #fff;
-        
       }
   `
   return (

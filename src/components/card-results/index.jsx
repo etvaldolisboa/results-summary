@@ -47,7 +47,7 @@ export const Results = () => {
     <Results>
       <h1>Your Result</h1>
       <Circle>
-        <span style={{ fontSize: '6.8rem', fontWeight: 'bold', color: '#fff' }}>76</span>
+        <span style={{ color: '#ffffff', fontSize: '6.8rem', fontWeight: 'bold' }}>76</span>
         <span style={{ color: '#c8c7ff', fontSize: '1.8rem' }}>of 100</span>
       </Circle>
       <h2>Great</h2>

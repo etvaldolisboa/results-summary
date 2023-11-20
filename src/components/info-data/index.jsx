@@ -12,7 +12,6 @@ export const Item = ({ category, score, icon }) => {
       position: relative;
       align-items: center;
       margin-bottom: 1.4rem;
-      
 
       div{
         display: flex;
