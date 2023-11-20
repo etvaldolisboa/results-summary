@@ -9,7 +9,7 @@ export const Results = () => {
       border-radius: 3rem;
       text-align: center;
       z-index: 1;
-
+      
       h1{
         color: #ebf1ff;
         margin-bottom: 3.2rem;
@@ -24,6 +24,9 @@ export const Results = () => {
         color: #c8c7ff;
         font-weight: 400;
         font-size: 1.8rem;
+      }
+      @media (max-width: 500px) {
+        border-radius: 0 0 3rem 3rem;
       }
   `
 

@@ -36,10 +36,10 @@ const GlobalStyle = createGlobalStyle`
     font-size: 1.6rem;
   }
 
-    ul {
-      list-style-type: none;
-      flex-grow: 1;
-    }
+  ul {
+    list-style-type: none;
+    flex-grow: 1;
+  }
 `;
 
 export default App;
